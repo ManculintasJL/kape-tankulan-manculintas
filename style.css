@@ -1,23 +1,30 @@
 
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 20px;
   color: #333;
+  background-color: #b0a997;
+}
+
+
+h1, h2 {
+  color: #836149;
 }
 
 h1 {
-  color: #4a2c11;
+  text-align: center;
 }
 
-h2 {
-  color: #6f4e37;
-}
 
 .tagline {
   font-size: 1.1rem;
-  color: #555;
+  color: #8f8b45;
+  font-weight: 500;
+  letter-spacing: 0.5px;
 }
+
 .note {
   font-size: 0.9rem;
   color: #777;
@@ -27,10 +34,16 @@ h2 {
   margin-top: 20px;
 }
 
+
 #best-seller {
   font-weight: bold;
-  color: #b33951;
+  color: #a87e00;
+  border: 2px solid #e8b613;
+  border-radius: 6px;
+  padding: 12px;
+  margin: 25px 0;
 }
+
 
 img {
   max-width: 300px;
