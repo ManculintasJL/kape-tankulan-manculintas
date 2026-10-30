@@ -1,0 +1,40 @@
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  color: #333;
+}
+
+h1 {
+  color: #4a2c11;
+}
+
+h2 {
+  color: #6f4e37;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #555;
+}
+.note {
+  font-size: 0.9rem;
+  color: #777;
+  font-style: italic;
+  border-left: 3px solid #6f4e37;
+  padding-left: 10px;
+  margin-top: 20px;
+}
+
+#best-seller {
+  font-weight: bold;
+  color: #b33951;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 15px;
+}
